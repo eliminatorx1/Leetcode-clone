@@ -1,7 +1,7 @@
 # LeetCode Clone Youtube Tutorial
 
 ### Built With React, NextJS, TypeScript, TailwindCSS, Firebase
+## Screenshots of images
 
-# [Demo](https://youtu.be/igqiduZR-Gg)
 
-![Screenshot of App](https://i.ibb.co/b3XDkdN/Full-Stack-1.png)
+![Screenshot of App](https://github.com/eliminatorx1/screenshots/blob/master/Screenshot%20(787).png)
